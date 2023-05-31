@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2333" height="1080" viewBox="0 0 2333 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="2138" height="501" transform="translate(129 288)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="2333" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Polygon_2" data-name="Polygon 2" d="M250,116.276,84.138,448H415.862L250,116.276M250,0,500,500H0Z" transform="translate(174 353)" fill="#707070"/>
+        <text id="_.CABUYAO" data-name=".CABUYAO" transform="translate(645 787)" fill="#707070" font-size="450" font-family="AgencyFB-Bold, Agency FB" font-weight="700"><tspan x="0" y="0">.CABUYAO</tspan></text>
+        <path id="Polygon_3" data-name="Polygon 3" d="M161.5,113.4,85.345,261H237.655L161.5,113.4M161.5,0,323,313H0Z" transform="translate(174 540)" fill="#707070"/>
+      </g>
+    </g>
+  </g>
+</svg>
